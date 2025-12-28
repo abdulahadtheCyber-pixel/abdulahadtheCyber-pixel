@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Penetration Testing tools<br>👯 I’m looking to collaborate on Cybersecurity projects<br>🌱 I’m currently learning Penetration Testing<br>💬Cybersecurity | VAPT • CNSP • OOSE • PSCE • Ethical Hacking. Building security tools, breaking systems ethically, and learning every day.
+🔭 I’m currently working on Penetration Testing tools<br>👯 I’m looking to collaborate on Cybersecurity projects<br>🌱 I’m currently learning Penetration Testing<br>💬Cybersecurity Researcher
 
 
 ## 🌐 Socials:
